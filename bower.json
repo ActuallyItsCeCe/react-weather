@@ -1,0 +1,20 @@
+{
+  "name": "react-weather",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Chuck Wongus <charles.t.wongus@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "weather-icons": "^2.0.10"
+  }
+}
